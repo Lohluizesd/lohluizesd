@@ -1,10 +1,10 @@
 ## Olá, me chamo Lorenna!
-### Ou Loris/Loh ♥️
+### Mas pode me chamar de Loris/Loh ♥️
 
 - 🔭 Estou em transição de carreira!
 - 🌱 Atualmente trabalho na parte administrativa, mas minha formação é em Gastronomia 
 - 👯 Estou aprofundando na área de Front-End mas futuramente quero conhecer sobre a parte de Back.
-- ✨Curiosidades: Eu concentro emlhor ouvindo música no fone. Eu amo ler fantasias em que tem mulheres fortes. A mesma intensidade que tenho pra ficar em casa um final de semana tenho para sair ele todo. Eu sou de Minas Gerais <3 e amo um barzinho.
+- ✨Curiosidades: Eu concentro melhor ouvindo música no fone. Eu amo ler fantasias em que tem mulheres fortes. A mesma intensidade que tenho pra ficar em casa um final de semana tenho para sair ele todo. Eu sou de Minas Gerais <3 e amo um barzinho.
 
 ### Tecnologias e ferramentas
 
