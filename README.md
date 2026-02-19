@@ -1,25 +1,71 @@
-## Olá, me chamo Lorenna!
-### Mas pode me chamar de Loris/Loh ♥️
+<h1 align="center">Olá, me chamo Lorenna!</h1>
 
-- 🔭 Estou em transição de carreira!
-- 🌱 Atualmente trabalho na parte administrativa, mas minha formação é em Gastronomia 
-- 👯 Estou aprofundando na área de Front-End mas futuramente quero conhecer sobre a parte de Back.
-- ✨Curiosidades: Eu concentro melhor ouvindo música no fone. Eu amo ler fantasias em que tem mulheres fortes. A mesma intensidade que tenho pra ficar em casa um final de semana tenho para sair ele todo. Eu sou de Minas Gerais <3 e amo um barzinho.
+<p align="center">
+  ✦ Desenvolvedora Front-End em transição ✦  
+</p>
 
-### Tecnologias e ferramentas
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas  
+</p>
 
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60"/></div>
+<p align="center">
+  Criando interfaces com propósito, estética e precisão.
+</p>
 
-### Contatos
-<div>
-<a href = "mailto:lohluizesd@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lorenna-dias/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p align="center">────────── ✦ ──────────</p>
 
-### Github
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohluizesd&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lohluizesd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+Atualmente estou aprofundando meus conhecimentos em Front-End, com interesse futuro em Back-End para me tornar uma desenvolvedora full stack.
+
+Tenho experiência anterior na área administrativa e formação em Gastronomia, o que desenvolveu minha organização, disciplina e atenção aos detalhes — habilidades que hoje aplico diretamente na programação.
+
+<p align="center">
+<img width="100" height="100" alt="NODE" src="https://github.com/user-attachments/assets/a87eaadd-9985-49bc-9672-f7924552e399" />
+<img width="100" height="100" alt="HTML" src="https://github.com/user-attachments/assets/09650acf-06b7-4bb3-b3d9-96a7a97d11fd" />
+<img width="100" height="100" alt="GIT" src="https://github.com/user-attachments/assets/5bfdee50-1595-44ca-9933-51f132a47db7" />
+<img width="100" height="100" alt="Frame" src="https://github.com/user-attachments/assets/fdd611b0-54a0-4718-812a-6cc7d8c20c4d" />
+<img width="100" height="100" alt="Frame (2)" src="https://github.com/user-attachments/assets/050469c0-01aa-42aa-81ea-a14231eb35ae" />
+<img width="100" height="100" alt="Frame (1)" src="https://github.com/user-attachments/assets/a9c1ad34-9af1-4550-98a2-7981eb2fb797" />
+<img width="100" height="100" alt="CSS" src="https://github.com/user-attachments/assets/dd091f50-1e50-4673-b298-54e9aee125ce" />
+<img width="100" height="100" alt="REACT" src="https://github.com/user-attachments/assets/61b97255-b4c3-4cf3-9954-a56daa29874d" />
+
+</p>
+
+### 🛠️ Tecnologias e Ferramentas
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Tailwind
+- React (em evolução)
+- Git & GitHub
+
+### 📚 Atualmente estudando
+- Typescript
+- Node.js
+- Python
+- SQL
+- Estruturação de projetos escaláveis
+- Boas práticas de código
+- Lógica e estrutura de dados
+
+
+### ✨ Sobre mim
+Concentro melhor ouvindo música 🎧  
+Gosto de aprender coisas novas constantemente  
+Mineira que ama um bom barzinho 🍻  
+
+
+<h3 align="center">Onde me achar:</h3>
+
+<p align="center">
+  <a href="mailto:lohluizesd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-E8A0B5?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lorenna-dias/">
+    <img src="https://img.shields.io/badge/LinkedIn-5FA8A4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
           
